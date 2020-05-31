@@ -1,5 +1,5 @@
 # BasicProjects
-Trying to complete over 50 projects in various categories in Java.
+Trying to complete over 50 projects(in progess) in various categories in Java.
 
 List of projects -
 
