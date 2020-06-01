@@ -7,5 +7,6 @@ List of projects -
 2. Multiplication table - Take a number as an input and print its multiplication table upto 10
 3. Shape Area & Perimeter calculator - Create an abstract class called Shape. Create another class which will inherit Shape class and store all the shapes like triangle, rectangle, circle and square. Let a class Main take type of shape, lenghts as input and print area & perimeter as output. Throw an exception if shape not found
 4. Flip Coin and print percentage of Heads and Tails - I/P -> The number of times to flip coin. Ensure it is positive integer. Logic -> Use random function to get value between 0 to 1. If <0.5 then tails or heads. O/P -> Percentage of heads & tails.
-5. Leap Year - Take a year as an input, ensure it is a 4 digit number. Determine if it is a leap year and print it
+5. Leap Year - Take a year as an input, ensure it is a 4 digit number. Determine if it is a leap year and print it.
+6. Harmonic Number - Take a number N as input, ensure N != 0, compute 1+1/2+1/3+...+1/N & print the Nth Harmonic value.
 
