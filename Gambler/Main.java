@@ -42,6 +42,7 @@ public class Main{
     }
     
   }
+
   public static void main(String [] args) {
     Scanner input = new Scanner(System.in);
     System.out.println("Enter your name: ");
@@ -69,5 +70,6 @@ public class Main{
       System.out.println("Average bets: " +bets/num);
       System.out.println("Percentage of win: " +wins+ "%");
     }
+
   }
 }
