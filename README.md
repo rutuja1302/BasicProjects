@@ -9,4 +9,5 @@ List of projects -
 4. Flip Coin and print percentage of Heads and Tails - I/P -> The number of times to flip coin. Ensure it is positive integer. Logic -> Use random function to get value between 0 to 1. If <0.5 then tails or heads. O/P -> Percentage of heads & tails.
 5. Leap Year - Take a year as an input, ensure it is a 4 digit number. Determine if it is a leap year and print it.
 6. Harmonic Number - Take a number N as input, ensure N != 0, compute 1+1/2+1/3+...+1/N & print the Nth Harmonic value.
+7. Gambler - Stimulate a gambler who starts with $stake & place fair $1 bets until he/she goes broke(i.e has no money) or reach $goal.Keeps track of the number of times he/she wins & the number of bets he/she makes. Run the experiment N times, average the results, and print them out. 
 
