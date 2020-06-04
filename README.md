@@ -10,4 +10,4 @@ List of projects -
 5. Leap Year - Take a year as an input, ensure it is a 4 digit number. Determine if it is a leap year and print it.
 6. Harmonic Number - Take a number N as input, ensure N != 0, compute 1+1/2+1/3+...+1/N & print the Nth Harmonic value.
 7. Gambler - Stimulate a gambler who starts with $stake & place fair $1 bets until he/she goes broke(i.e has no money) or reach $goal.Keeps track of the number of times he/she wins & the number of bets he/she makes. Run the experiment N times, average the results, and print them out. 
-
+8. Power of 2 - This program takes a command line argumemt N and prints the table of the powers of 2 that are less than or equal to 2^N. Take power value N as an input and print the power table as an input. Note- program will only work if 0<= N < 31, as 2^31 will overflow int
