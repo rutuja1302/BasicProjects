@@ -13,3 +13,4 @@ List of projects -
 8. Power of 2 - This program takes a command line argumemt N and prints the table of the powers of 2 that are less than or equal to 2^N. Take power value N as an input and print the power table as an input. Note- program will only work if 0<= N < 31, as 2^31 will overflow int
 9. Anagram detection - Check if two strings are anagram or not. (Anagram example: fried & fired)
 10. Reverse a string - Enter a string & the program will reverse it and print it out.
+11. Pig Latin - A secret language formed from english by transferring the initial consonant to the end of the word and 'ay' is affixed to it. If the word starts with an vowel then 'way' is affixed at the end of the word. Eg: food becomes oodfay & ice becomes iceway
