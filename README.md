@@ -12,3 +12,4 @@ List of projects -
 7. Gambler - Stimulate a gambler who starts with $stake & place fair $1 bets until he/she goes broke(i.e has no money) or reach $goal.Keeps track of the number of times he/she wins & the number of bets he/she makes. Run the experiment N times, average the results, and print them out. 
 8. Power of 2 - This program takes a command line argumemt N and prints the table of the powers of 2 that are less than or equal to 2^N. Take power value N as an input and print the power table as an input. Note- program will only work if 0<= N < 31, as 2^31 will overflow int
 9. Anagram detection - Check if two strings are anagram or not. (Anagram example: fried & fired)
+10. Reverse a string - Enter a string & the program will reverse it and print it out.
