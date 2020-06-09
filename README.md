@@ -16,3 +16,4 @@ List of projects -
 11. Pig Latin - A secret language formed from english by transferring the initial consonant to the end of the word and 'ay' is affixed to it. If the word starts with an vowel then 'way' is affixed at the end of the word. Eg: food becomes oodfay & ice becomes iceway.
 12. Prime Factorization calculator - This interaction program determines whether your input is prime or composite number. It will also list the number's factors.
 13. The Age Calculator - This program will determine the age or interval between two dates. The calculated age will be displayed in years, months and days.
+14. Fortune Cookie teller - This program will simply tell user's fortune for the day. These fortunes will be stored in an array of Strings, use random class to generate a random number.
