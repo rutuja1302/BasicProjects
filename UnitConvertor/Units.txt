@@ -1,0 +1,54 @@
+(For reference only)
+This file contains all the types of units & it's conversion formulae i used in the program
+
+===========================================================================================
+
+Type of unit- Temperature
+Units- Celcius 
+       Fahrenheit
+       Kelvin
+Conversion & formulae - 
+1) Celcius to Fahrenheit -> (0°C × 9/5) + 32 = 32°F
+2) Fahrenheit to Celcius -> (0°F − 32) × 5/9 = -17.78°C
+3) Celcius to Kelvin -> 0°C + 273.15 = 273.15K
+4) Kelvin to Celcius -> 0K − 273.15 = -273.1°C
+5) Kelvin to Fahrenheit -> (0K − 273.15) × 9/5 + 32 = -459.7°F
+6) Fahrenheit to Kelvin -> (0°F − 32) × 5/9 + 273.15 = 255.372K
+    
+===========================================================================================
+       
+Type of unit- Length
+Units- Kilometre
+       Metre
+       Centimetre
+       Millimetre
+       Foot
+       Inch
+Conversion & formulae - 
+1) Kilometre to Metre -> multiply the length value by 1000
+2) Metre to Kilometre -> divide the length value by 1000
+3) Centimetre to Metre -> divide the length value by 1000
+4) Millimetre to Centimetre -> divide the length value by 10
+5) Foot to Inch -> multiply the length value by 12
+
+===========================================================================================
+
+Type of unit- Mass
+Units- Milligram
+       Gram
+       Kilogram
+       Tonne
+Conversion & formulae - 
+1) Milligram to Gram -> divide the length value by 1000
+2) Gram to Kilogram -> divide the length value by 1000
+3) Kilogram to Tonne ->divide the length value by 1000
+4) Kilogram to Gram -> multiply the length value by 1000
+
+===========================================================================================
+
+Type of unit - Angle 
+Units- Degree
+       Radian
+Conversion & formulae - 
+1) Degree to Radian -> 1Deg × π/180 = 0.01745Rad
+2) Radian to Degree -> 1Rad × 180/π = 57.296Deg
