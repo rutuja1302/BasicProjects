@@ -18,3 +18,4 @@ List of projects -
 13. The Age Calculator - This program will determine the age or interval between two dates. The calculated age will be displayed in years, months and days.
 14. Fortune Cookie teller - This program will simply tell user's fortune for the day. These fortunes will be stored in an array of Strings, use random class to generate a random number.
 15. Unit Converter(temp, length, mass, angle)- Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to & then the value. The program will then make the conversion.
+16. Change Return Program - The user enters a cost & then the amount of money given. The program will figure out the change and the number of cash or coins needed for change.
