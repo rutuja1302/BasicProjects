@@ -20,4 +20,5 @@ List of projects -
 15. Unit Converter(temp, length, mass, angle)- Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to & then the value. The program will then make the conversion.
 16. Change Return Program - The user enters a cost & then the amount of money given. The program will figure out the change and the number of cash or coins needed for change.
 17. Credit Card Validator - Takes in a credit card number from a common credit card vendor(Visa, MasterCard, American Express, Discoverer) & validates it to make sure that it is a valid number(Luhn's algorithm).
+18. Factorial Finder - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1.Take n as input & print it's factorial.
 
