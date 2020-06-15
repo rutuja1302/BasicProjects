@@ -2,7 +2,7 @@
 //Change return program in indian rupees using only if-else statements
 
 import java.util.Scanner;
-public class Main{
+public class Change{
   public static void main(String [] args){
 
     Scanner scan = new Scanner(System.in);
