@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class Main{
+public class Factors{
 
   static int num;
   static int count = 0;
