@@ -24,4 +24,4 @@ List of projects -
 19. Count Vowels - Enter a string and the program counts the number of vowels in the text.
 20. Fibonacci Sequence - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 21. Password Generator - This program will take password length as an input and provide a new password with random alphabets,numbers,special characters combination.
-
+22. Simple Calculator - A 2D calculator to perform basic operations.
