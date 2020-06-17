@@ -2,7 +2,7 @@
   Performs operations such as add, subtract, multiply, divide,
   exponent, inverse, squaring,square root, percentage and log*/
 import java.util.Scanner;
-public class Main{
+public class Calculator{
   public static Scanner scan = new Scanner(System.in);
   public static String choice, logBase;
   public static double num1,num2,res,base,pow,exp;
