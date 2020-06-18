@@ -25,3 +25,4 @@ List of projects -
 20. Fibonacci Sequence - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 21. Password Generator - This program will take password length as an input and provide a new password with random alphabets,numbers,special characters combination.
 22. Simple Calculator - A 2D calculator to perform basic operations.
+23. Hangman Game - This is version of the classic letter guessing game called Hangman. User will be shown a set of blank letters that match a word and user have to guess what these letters are to reveal the hidden word. If the user guesses a wrong letter then the program hangs the man otherwise the user wins!
