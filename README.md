@@ -26,3 +26,4 @@ List of projects -
 21. Password Generator - This program will take password length as an input and provide a new password with random alphabets,numbers,special characters combination.
 22. Simple Calculator - A 2D calculator to perform basic operations.
 23. Hangman Game - This is version of the classic letter guessing game called Hangman. User will be shown a set of blank letters that match a word and user have to guess what these letters are to reveal the hidden word. If the user guesses a wrong letter then the program hangs the man otherwise the user wins!
+24. Currency Formatter - User will enter a double-precision number, denoting an amount of money, use the NumberFormat class' getCurrecyInstance method to convert the input into different currencies. 
