@@ -29,3 +29,4 @@ List of projects -
 24. Currency Formatter - User will enter a double-precision number, denoting an amount of money, use the NumberFormat class' getCurrecyInstance method to convert the input into different currencies. 
 25. Binary Numbers - Given a base-10 integer(n), convert it to binary (base-2). Then find and print the base-10 integer denoting the maximum number of consecutive 1's in n's binary representation.
 26. Substring comparison - Given a string 's', and an integer 'k', perform a program that finds the lexicographically smallest and largest substrings of length k.
+27. Hourglass Problem - Calculate the hourglass sum for every hourglass in a 2D Array, then print the maximum hourglass sum.
