@@ -30,3 +30,4 @@ List of projects -
 25. Binary Numbers - Given a base-10 integer(n), convert it to binary (base-2). Then find and print the base-10 integer denoting the maximum number of consecutive 1's in n's binary representation.
 26. Substring comparison - Given a string 's', and an integer 'k', perform a program that finds the lexicographically smallest and largest substrings of length k.
 27. Hourglass Problem - Calculate the hourglass sum for every hourglass in a 2D Array, then print the maximum hourglass sum.
+28. Average Grade Calculator - This program will take Name of the student, id number and his/her scores as an input. Class Person will print the student's details and class Student(inheriting Person class's properties) will calculate the average score and will return the grade character representative of their calculated average.
