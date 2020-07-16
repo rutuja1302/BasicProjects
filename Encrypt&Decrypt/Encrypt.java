@@ -2,7 +2,7 @@
   It will encrypt the message by replacing letters with speacial characters
   In this program we will use switch statement to our encrypt message*/
 import java.util.Scanner;
-public class Main{
+public class Encrypt{
   public static void main(String [] args){
     Scanner scan = new Scanner(System.in);
     System.out.print("Enter your message: ");
