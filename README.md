@@ -37,3 +37,4 @@ List of projects -
 32. Pattern Syntax Checker - Using Regex, we can easily match or search for patterns in a text. Before searching for a pattern, we have to specify one using some well-defined syntax.In this problem, You have to check whether the syntax of the given pattern is valid.
 33. Validate IP Address - This program will accept the IP address as an input string and will check whether the given string is a valid IPv4 or IPv6 address or not. 
 34. Encryption and Decryption - Encryption is the process of converting electronic data into another equivalent form, called “ciphertext” that cannot be easily understood by anybody except the authorized personnel. Whereas decryption is the reverse process of encryption. We will create 2 simple programs, first program will encrypt the given text and second will decrypt the code into the text message.
+35. Clock Angle Problem - This program will determine the angle between two hands of a analog clock at a given time.
