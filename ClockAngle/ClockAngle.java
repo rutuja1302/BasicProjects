@@ -4,7 +4,7 @@
   So, the minute hand moves 6 degrees in 1minute(Hence formula 6*mins)
   & hour hand moves 0.5 degrees in 1minute(Hence formula [(hour*60 +mins)*0.5])*/
 import java.util.Scanner;
-public class Main{
+public class ClockAngle{
   public static void main(String [] args){
     Scanner scan = new Scanner(System.in);
     System.out.print("Enter hour: ");
