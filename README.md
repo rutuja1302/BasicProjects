@@ -38,3 +38,4 @@ List of projects -
 33. Validate IP Address - This program will accept the IP address as an input string and will check whether the given string is a valid IPv4 or IPv6 address or not. 
 34. Encryption and Decryption - Encryption is the process of converting electronic data into another equivalent form, called “ciphertext” that cannot be easily understood by anybody except the authorized personnel. Whereas decryption is the reverse process of encryption. We will create 2 simple programs, first program will encrypt the given text and second will decrypt the code into the text message.
 35. Clock Angle Problem - This program will determine the angle between two hands of a analog clock at a given time.
+36. Happy number - Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1, or it loops endlessly in a cycle which does not include 1.
