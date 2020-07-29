@@ -40,3 +40,4 @@ List of projects -
 35. Clock Angle Problem - This program will determine the angle between two hands of a analog clock at a given time.
 36. Happy number - Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1, or it loops endlessly in a cycle which does not include 1.
 37. Simulate Stopwatch Program - This is a Stopwatch Program for measuring the time that elapses between the start and end clicks. I/P -> Start the Stopwatch and End the Stopwatch. Measure the elapsed time between start and end. Print the elapsed time.
+38. Employee's Salary Calculator - i/p -> 1)Number of hours the employee works per week 2) Amount of money the emloyee makes per hour 3) Number of vacation days. O/p -> Employee's Gross Yearly Salary
