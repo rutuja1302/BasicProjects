@@ -1,7 +1,7 @@
 # BasicProjects
 Trying to complete basic projects in various categories of Java.
 
-List of projects -
+## List of projects -
 
 1. User input & Replace String template "Hello <>, How are you?" - I/P -> Take username as input.Ensure username has min 3characters O/P -> Replace <> with proper name and print the string.
 2. Multiplication table - Take a number as an input and print its multiplication table upto 10
@@ -45,3 +45,4 @@ List of projects -
 40. Size of the smallest subset with maximum Bitwise OR - Given an array of positive integers. The task is to find the size of the smallest subset such that the Bitwise OR of that set is Maximum possible. (GOCC'16 problem)
 41. XOR list operations - Given a list which initially contains 0, the following queries can be performed: 1)0 X: add X to the list  2)1 X: replace each element “A” of the list by A^X, where ^ is the xor operator 3) Return a list with the result elements in increasing order.
 42. TotalFeet - Given an array of integers representing measurements in inches, write a program to calculate the total of measurements in feet.(TechMahindra Recruitment exam question)
+43. Niven Number - Niven Numbers are positive integers greater than 0 that are divisible by the sum of their digits. You are given a niven number 'n', If n is niven, then return the number of times it is divisible by the sum of its digits(i.e the quotient), else return 0.
